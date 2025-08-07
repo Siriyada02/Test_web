@@ -1,0 +1,2 @@
+GOLBAL_TIMEOUT: 10
+url:  http://the-internet.herokuapp.com/login
